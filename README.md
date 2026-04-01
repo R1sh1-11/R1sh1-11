@@ -3,7 +3,7 @@
 CS student at **UNC Charlotte** · Cybersecurity Concentration  
 Volunteering at the UNCC Cybersecurity Clinic · Getting real-world experience and shadowing graduate students
 
-- 🔭 Currently working on **cybersecurity labs and SIEM projects**
+- 🔭 Currently working on **honors thesis on AI Agents, cybersecurity labs, and SIEM projects**
 - 🌱 Currently learning **network defense, log analysis, and threat detection**
 - 👯 Looking to collaborate on **cybersecurity research or open source CS projects**
 
