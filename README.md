@@ -1,7 +1,7 @@
 # Hey, I'm Rishi 👋
 
 CS student at **UNC Charlotte** · Cybersecurity Concentration  
-Volunteering at the UNCC Cybersecurity Clinic · Getting real-world experience and shadowing graduate students
+Volunteered at the UNCC Cybersecurity Clinic · Gained real-world experience and shadowed graduate students
 
 - 🔭 Currently working on **honors thesis on AI Agents, cybersecurity labs, and SIEM projects**
 - 🌱 Currently learning **network defense, log analysis, and threat detection**
